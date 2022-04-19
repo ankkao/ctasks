@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # Наездник JetBrains
 *.sln.iml
+
+x64/
+.vs/
